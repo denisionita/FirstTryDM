@@ -54,4 +54,8 @@ public class MainActivity extends AppCompatActivity {
         int x = 1+2;
         return true;
     }
+
+    public boolean otherstuff() {
+        return false;
+    }
 }
